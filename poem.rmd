@@ -16,6 +16,7 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+
 Twas brillig, and the slithy toves  
 Did gyre and gimble in the wabe:  
 All mimsy were the borogoves,  
@@ -23,6 +24,8 @@ And the mome raths outgrabe.
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+
 Two roads diverged in a yellow wood,  
 And sorry I could not travel both  
 And be one traveler, long I stood  
@@ -31,10 +34,63 @@ To where it bent in the undergrowth;
 
 
 
-
-
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sun was shining on the sea,   
+Shining with all his might:   
+He did his very best to make   
+The billows smooth and bright —   
+And this was odd, because it was   
+The middle of the night.   
+
+The moon was shining sulkily,  
+Because she thought the sun   
+Had got no business to be there   
+After the day was done —   
+It's very rude of him," she said,   
+To come and spoil the fun.   
+
+
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+
+She walks in beauty, like the night  
+Of cloudless climes and starry skies;  
+And all that’s best of dark and bright   
+Meet in her aspect and her eyes;   
+Thus mellowed to that tender light   
+Which heaven to gaudy day denies.   
+
+
+
+
+
+
+
+One shade the more, one ray the less,   
+Had half impaired the nameless grace    
+Which waves in every raven tress,   
+Or softly lightens o’er her face;   
+Where thoughts serenely sweet express,   
+How pure, how dear their dwelling-place.    
+
+
+
+
+
+
+And on that cheek, and o’er that brow,    
+So soft, so calm, yet eloquent,   
+The smiles that win, the tints that glow,   
+But tell of days in goodness spent,    
+A mind at peace with all below,    
+A heart whose love is innocent!     
+
+
+
+
+
+
